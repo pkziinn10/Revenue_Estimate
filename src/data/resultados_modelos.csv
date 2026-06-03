@@ -1,0 +1,25 @@
+Modelo,Categoria,Série,MAE,SMAPE
+AutoARIMA,Estatístico,Produto,89.02,85.2
+AutoARIMA,Estatístico,País,5730.16,76.91
+AutoARIMA,Estatístico,Cliente,438.49,129.91
+AutoETS,Estatístico,Produto,77.86,85.01
+AutoETS,Estatístico,País,4161.46,69.58
+AutoETS,Estatístico,Cliente,454.24,133.34
+Prophet,Estatístico,Produto,79.91,84.13
+Prophet,Estatístico,País,5843.69,73.44
+Prophet,Estatístico,Cliente,451.2,126.17
+XGBoost,Machine Learning,Produto,110.68,47.72
+XGBoost,Machine Learning,País,20591.53,166.8
+XGBoost,Machine Learning,Cliente,421.14,112.82
+CatBoost,Machine Learning,Produto,109.84,47.6
+CatBoost,Machine Learning,País,21530.75,181.5
+CatBoost,Machine Learning,Cliente,417.4,173.1
+TCN,Deep Learning,Produto,110.74,46.77
+TCN,Deep Learning,País,9328.11,49.44
+TCN,Deep Learning,Cliente,409.54,147.44
+LSTM,Deep Learning,Produto,126.27,54.58
+LSTM,Deep Learning,País,10163.89,56.13
+LSTM,Deep Learning,Cliente,405.88,164.11
+Ensemble,Combinado,Produto,110.82,47.49
+Ensemble,Combinado,País,15350.39,100.68
+Ensemble,Combinado,Cliente,408.32,171.26
