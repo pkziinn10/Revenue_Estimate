@@ -20,6 +20,3 @@ TCN,Deep Learning,Cliente,409.54,147.44
 LSTM,Deep Learning,Produto,126.27,54.58
 LSTM,Deep Learning,País,10163.89,56.13
 LSTM,Deep Learning,Cliente,405.88,164.11
-Ensemble,Combinado,Produto,110.82,47.49
-Ensemble,Combinado,País,15350.39,100.68
-Ensemble,Combinado,Cliente,408.32,171.26
